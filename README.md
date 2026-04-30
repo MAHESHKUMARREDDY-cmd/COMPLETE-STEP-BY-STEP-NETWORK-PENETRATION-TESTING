@@ -568,7 +568,7 @@ chmod +x ~/verify_all_tools.sh
 
 ---
 
-# SECTION 4: COMPLETE 5-DAY PENTEST WORKFLOW
+# SECTION 4: PENTEST WORKFLOW
 
 ## PRE-PENTEST: Get Authorization
 
