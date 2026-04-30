@@ -1,4 +1,4 @@
-# 🔥 COMPLETE STEP-BY-STEP NETWORK PENETRATION TESTING
+COMPLETE STEP-BY-STEP NETWORK PENETRATION TESTING
 ## ALL Commands | ALL Processes | ALL Steps
 ### Professional Office Network Testing Guide
 ### For: Mahesh Kumar Reddy C
